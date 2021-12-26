@@ -1,0 +1,8 @@
+.Search .input-text {
+  display: flex;
+}
+
+#submit-button {
+  padding-left: 42px;
+  padding-right: 42px;
+}
