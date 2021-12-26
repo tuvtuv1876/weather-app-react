@@ -1,5 +1,7 @@
 import SearchEngine from "./SearchEngine";
 import MainWeather from "./MainWeather";
+import Footer from "./Footer";
+
 import "./App.css";
 import "./SearchEngine.css";
 import "./MainWeather.css";
@@ -11,6 +13,7 @@ function App() {
         <SearchEngine />
         <MainWeather />
       </div>
+      <Footer />
     </div>
   );
 }
